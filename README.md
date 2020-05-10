@@ -10,7 +10,7 @@ php artisan migrate --seed
 import table disposable_email_domains to database
 ```
 
-#Resource
+# Resource
 
 [List SQL of disposable and temporary email address domains](https://github.com/tobidsn/disposable-email-domains-sql)
 
